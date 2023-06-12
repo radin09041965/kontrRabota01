@@ -1,0 +1,15 @@
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\bin\Debug\net7.0\task.exe
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\bin\Debug\net7.0\task.deps.json
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\bin\Debug\net7.0\task.runtimeconfig.json
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\bin\Debug\net7.0\task.dll
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\bin\Debug\net7.0\task.pdb
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\obj\Debug\net7.0\task.csproj.AssemblyReference.cache
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\obj\Debug\net7.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\obj\Debug\net7.0\task.AssemblyInfoInputs.cache
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\obj\Debug\net7.0\task.AssemblyInfo.cs
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\obj\Debug\net7.0\task.csproj.CoreCompileInputs.cache
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\obj\Debug\net7.0\task.dll
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\obj\Debug\net7.0\refint\task.dll
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\obj\Debug\net7.0\task.pdb
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\obj\Debug\net7.0\task.genruntimeconfig.cache
+D:\Drongo\GeekBrains\Проекты в GIT\kontrRabota01\task\obj\Debug\net7.0\ref\task.dll
